@@ -4,9 +4,10 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 ## My Research Interest:
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
+- User Interface (UI) Design
+- User Experience (UX) Optimization
+- Frontend Development
+- Responsive Web Design
 - UI/UX improvements
 
 ## I am open to:
