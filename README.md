@@ -48,4 +48,3 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 [Twitter](https://twitter.com/Abd0llahB)
 [Instagram](https://www.instagram.com/citizenx___2/)
-[Website/Blog](https://example.com)
