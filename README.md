@@ -8,13 +8,14 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 - User Experience (UX) Optimization
 - Frontend Development
 - Responsive Web Design
+- New Technologies
 
 ## I am open to:
 
 - Professional collaboration work
 - Frontend projects (development or research)
 - Research internships
-- Available to become a web developer for a full-time job
+- Available to become a web developer for a full-time job or any alternative
 
 ## Skills:
 
@@ -34,11 +35,15 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 ### Tools and Technologies:
 
-- Git
 - React
 - Vue
 - Tailwind
-- Git
+- Github
+- SASS
+- Node.js
+- Npm
+- Command Line
+- APIs and RESTful Services
 
 ### IDEs:
 
@@ -46,5 +51,6 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 ## Connect with me:
 
+[LinkedIn](https://www.linkedin.com/in/abdullah-a-757463264/)
 [Twitter](https://twitter.com/Abd0llahB)
 [Instagram](https://www.instagram.com/citizenx___2/)
