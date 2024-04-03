@@ -19,13 +19,13 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 ## Skills:
 
-- Frontend Frameworks and Libraries
-- Web Performance Optimization
+- Cutting-edge Frontend Technologies
+- Speed and Performance Enhancement
 - Responsive Design
 - Command Line Proficiency
 - UI/UX Design Principles
-- Debugging and Testing
-- Continuous Learning
+- AI Collaboration and Innovation
+- Lifelong Learning Mentality
 
 ### Languages:
 
