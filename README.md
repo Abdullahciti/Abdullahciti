@@ -51,6 +51,6 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 
 ## Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/abdullah-a-757463264/) -
+[LinkedIn](https://www.linkedin.com/in/abdullahciti/) -
 [Twitter](https://twitter.com/Abd0llahB) - 
 [Instagram](https://www.instagram.com/citizenx___2/)
