@@ -22,7 +22,7 @@ I'm a civil engineer who decided to make a career shift and pursue my dream in t
 - Speed and Performance Enhancement
 - Responsive Design
 - Command Line Proficiency
-- UI/UX Design Principles
+- UX Principles
 - AI Collaboration and Innovation
 - Lifelong Learning Mentality
 
